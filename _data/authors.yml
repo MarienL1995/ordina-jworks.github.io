@@ -693,3 +693,12 @@ ken_keymolen:
   linkedin: kenkeymolen
   avatar:
   bio: Michaela is an Agile coach with a focus on value and the human aspects of work. She is devoted to Agile & Scrum, not just as a mindset and framework for collaborative product delivery, but also for their general quality as ways to unlearn innate/inbred habits that prevent us from learning efficiently. A true Agile mindset enables enterprises to break down siloes, and build professional human networks throughout the company and beyond.
+bjorn_de_craemer:
+  first_name: Björn
+  last_name: De Craemer
+  permalink: /author/bjorn-de-craemer/
+  title: Java Architect - Frontend & Backend
+  email: bjorn.decraemer@ordina.be
+  linkedin: bjorndecraemer
+  avatar: bjorn-de-craemer.jpg
+  bio: Björn is a Software Architect with a focus on Clean Architecture and a passion for servant leadership
