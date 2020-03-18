@@ -926,3 +926,11 @@ peter_dekinder:
   title: Solution Architect
   email: peter.dekinder@ordina.be
   bio: Peter is a Solution Architect with firm roots in the Java technosphere, but with a wide interest in all things architecture. His areas of specialization include Service Oriented Architectures, Business Process Management and Security.
+ken_bostoen:
+  first_name: Ken
+  last_name: Bostoen
+  permalink: /author/ken-bostoen/
+  avatar: ken-bostoen.jpg
+  title: Frontend Developer
+  email: ken.bostoen@ordina.be
+  bio: Ken is an avid frontend developer who isn't afraid of some full-stack experiences. He is mainly experienced in Angular but has a soft spot for VueJS aswel.
