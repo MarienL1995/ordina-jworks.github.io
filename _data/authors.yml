@@ -1082,3 +1082,11 @@ iebe_maes:
   title: Java Developer
   email: iebe.maes@ordina.be
   bio: Iebe is a junior Java developer at Ordina Belgium with an interest in back-end, frond-end and cloud development. He likes to learn new technologies.
+  cisse_tsyen:
+    first_name: Cisse
+    last_name: T'Syen
+    permalink: /author/cisse_tsyen/
+    avatar: cisse-tsyen.jpeg
+    title: Intern
+    email: cisse.tsyen@ordina.be
+    bio: Cisse T'Syen is a last year student Electronica-ICT Internet of Things at Thomas More Campus Geel.
